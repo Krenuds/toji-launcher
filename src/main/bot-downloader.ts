@@ -97,7 +97,7 @@ export class BotDownloader {
     // Fallback for now
     return {
       version: 'v1.0.0',
-      downloadUrl: 'https://github.com/yourusername/toji/releases/download/v1.0.0/toji-bot-linux.tar.gz',
+      downloadUrl: 'https://github.com/Krenuds/toji-launcher/releases/latest/download/toji-bot-linux.tar.gz',
       size: 14 * 1024 * 1024, // 14MB (actual size)
     };
   }
